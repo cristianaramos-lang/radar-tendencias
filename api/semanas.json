@@ -4,7 +4,7 @@
   "inicio": "2026-11-09",
   "fim": "2026-11-15",
   "titulo": "9 a 15 nov 2026",
-  "atualizadoEm": "2026-11-11",
+  "atualizadoEm": "2026-11-12",
   "itens": [
    {
     "id": "GA1",
@@ -2704,6 +2704,156 @@
     },
     "videos": [],
     "fontes": []
+   },
+   {
+    "id": "FAR-GA2",
+    "categoria": "lead",
+    "tipo": "angariacao",
+    "tema": "imobiliario",
+    "regiao": "faro",
+    "forcaSinal": "novo",
+    "nome": "Loulé: a câmara procura casas",
+    "tendencia": "Manchete local: a Câmara de Loulé lança consultas para comprar casas e terrenos e arrendar casas a privados",
+    "porqueFunciona": "Notícia local de ontem que fala diretamente com proprietários: há um comprador público à procura. Uma só ideia, oferta clara e apelo de baixo compromisso, como pede a metodologia.",
+    "adicionadoEm": "2026-11-12",
+    "copy": {
+     "titulo": "Tem casa ou terreno em Loulé? A câmara está à procura.",
+     "subtitulo": null,
+     "corpo": [
+      "A Câmara de Loulé quer comprar casas prontas a habitar, terrenos para construir e arrendar casas a proprietários privados. Antes de decidir, saiba quanto vale o seu imóvel no mercado. Clique em \"Saber mais\" e peça a sua avaliação gratuita, sem compromisso."
+     ],
+     "textoCompleto": "Tem casa ou terreno em Loulé? A câmara está à procura.\n\nA Câmara de Loulé quer comprar casas prontas a habitar, terrenos para construir e arrendar casas a proprietários privados. Antes de decidir, saiba quanto vale o seu imóvel no mercado. Clique em \"Saber mais\" e peça a sua avaliação gratuita, sem compromisso.",
+     "ctaAlternativo": null,
+     "titulosAlternativos": "Proprietário em Loulé: a câmara quer comprar e arrendar casas.",
+     "palavras": 53,
+     "limitePalavras": 65
+    },
+    "gravacao": {
+     "cena": "plano frontal num local reconhecível de Loulé. \"Casas, terrenos, arrendamento\" no ecrã.",
+     "objetivo": null,
+     "formato": null,
+     "notas": [
+      "Não prometer que a câmara compra ou arrenda o imóvel do cliente: só que lançou consultas.",
+      "Confirmar no site da Câmara de Loulé os prazos e condições das consultas antes de gravar; se já tiverem fechado, não usar."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "A 11 nov, a Câmara de Loulé lançou três consultas ao mercado: terrenos para mais de 50 casas, casas prontas a habitar para comprar e proprietários disponíveis para arrendar casas à câmara (para subarrendar a famílias).",
+     "sinal": "idealista/news, 11 nov (com base no Sul Informação). Sem sinal medido nas redes.",
+     "comoAdaptar": "Para proprietários de Loulé com casa ou terreno: a notícia é a razão para saber hoje quanto vale o imóvel. Oferta de avaliação gratuita."
+    },
+    "videos": [],
+    "fontes": [
+     {
+      "nome": "idealista/news, 11/11/2026: Loulé procura terrenos e casas para reforçar habitação pública",
+      "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/11/78859-loule-procura-terrenos-e-casas-para-reforcar-habitacao-publica"
+     }
+    ]
+   },
+   {
+    "id": "PRT-BR3",
+    "categoria": "branding",
+    "tipo": "branding-extenso",
+    "tema": "imobiliario",
+    "regiao": "porto",
+    "forcaSinal": "novo",
+    "nome": "Gaia: 14 mil casas novas",
+    "tendencia": "Surfar ondas: a revisão do PDM de Gaia prevê 14 mil casas novas em 10 a 12 anos",
+    "porqueFunciona": "Número grande, local e fácil de dizer, saído ontem. Explicá-lo em três pontos posiciona o consultor como quem conhece o plano do concelho e puxa a conversa nos comentários.",
+    "adicionadoEm": "2026-11-12",
+    "copy": {
+     "titulo": "Gaia vai ter 14 mil casas novas. E agora?",
+     "subtitulo": "O que diz a revisão do PDM.",
+     "corpo": [
+      "Olá, o meu nome é [Nome], consultor imobiliário especialista em Gaia. Vamos por partes.",
+      "→ Primeiro: a câmara prevê cerca de 14 mil casas novas nos próximos 10 a 12 anos. Cerca de metade pode chegar ao mercado até ao fim de 2027.",
+      "→ Segundo: 5.600 dessas casas podem nascer nas zonas mais interiores, como Crestuma e Lever.",
+      "→ Terceiro: para quem já tem casa em Gaia, mais oferta nova não tira valor a uma casa bem localizada e bem apresentada.",
+      "Na minha opinião, [opinião do consultor sobre a zona].",
+      "Que zona de Gaia vai mudar mais? Diga-me nos comentários."
+     ],
+     "textoCompleto": "Gaia vai ter 14 mil casas novas. E agora?\n\nO que diz a revisão do PDM.\n\nOlá, o meu nome é [Nome], consultor imobiliário especialista em Gaia. Vamos por partes.\n\n→ Primeiro: a câmara prevê cerca de 14 mil casas novas nos próximos 10 a 12 anos. Cerca de metade pode chegar ao mercado até ao fim de 2027.\n\n→ Segundo: 5.600 dessas casas podem nascer nas zonas mais interiores, como Crestuma e Lever.\n\n→ Terceiro: para quem já tem casa em Gaia, mais oferta nova não tira valor a uma casa bem localizada e bem apresentada.\n\nNa minha opinião, [opinião do consultor sobre a zona].\n\nQue zona de Gaia vai mudar mais? Diga-me nos comentários.",
+     "ctaAlternativo": "Tem casa em Gaia e quer saber quanto vale hoje? Envie-me mensagem.",
+     "titulosAlternativos": "T2: 14 mil casas novas em Gaia. Onde?",
+     "palavras": 113,
+     "limitePalavras": 125
+    },
+    "gravacao": {
+     "cena": "plano frontal com vista reconhecível de Gaia. Na edição, \"14 mil casas\" e \"Crestuma e Lever\" no ecrã.",
+     "objetivo": "Posicionar o consultor como quem acompanha e explica o planeamento do concelho.",
+     "formato": null,
+     "notas": [
+      "A câmara fala em cálculos \"muito preliminares\": dizer sempre \"prevê\" ou \"pode\".",
+      "O terceiro ponto é opinião do consultor, não dado: ajustar ao que ele pensa da zona.",
+      "O Porto já tem PRT-BR1 e PRT-BR2 esta semana: escolher um para cada sessão."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "Com a revisão do PDM, a Câmara de Gaia prevê cerca de 14 mil casas novas nos próximos 10 a 12 anos, cerca de 7 mil até ao fim de 2027, e 5.600 nas zonas mais interiores, como Crestuma e Lever. A autarquia diz que são cálculos preliminares.",
+     "sinal": "idealista/news, 11 nov (com base no Jornal de Notícias). Sem sinal medido nas redes.",
+     "comoAdaptar": "Surfar ondas em três pontos: o número, onde vão nascer e o que muda para quem tem casa em Gaia, com a opinião do consultor."
+    },
+    "videos": [],
+    "fontes": [
+     {
+      "nome": "idealista/news, 11/11/2026: Gaia prevê construção de 14 mil casas na próxima década",
+      "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/11/78845-gaia-preve-construcao-de-14-mil-casas-na-proxima-decada"
+     }
+    ]
+   },
+   {
+    "id": "BR13",
+    "categoria": "branding",
+    "tipo": "branding-extenso",
+    "tema": "imobiliario",
+    "regiao": "nacional",
+    "forcaSinal": "novo",
+    "nome": "Licenças de obra 70% mais rápidas?",
+    "tendencia": "Surfar ondas: o Governo prevê reduzir em 70% o tempo dos licenciamentos com inteligência artificial (plataforma LicencIA)",
+    "porqueFunciona": "Tema que toca quem tem terreno ou casa para obras, contado com cautela: é uma previsão. A metodologia pede coragem e opinião, e este tema dá as duas sem inventar dados.",
+    "adicionadoEm": "2026-11-12",
+    "copy": {
+     "titulo": "Licenças de obra 70% mais rápidas em [Região]?",
+     "subtitulo": "O que o Governo anunciou.",
+     "corpo": [
+      "Olá, o meu nome é [Nome], consultor imobiliário especialista em [Região]. Vamos por partes.",
+      "→ Primeiro: o Governo prevê reduzir em 70% o tempo dos licenciamentos de obras, com a ajuda de inteligência artificial.",
+      "→ Segundo: vai ser feito numa plataforma chamada LicencIA, em articulação com as câmaras. Para já, são projetos-piloto.",
+      "→ Terceiro: se avançar, quem tem um terreno ou uma casa para recuperar pode ver o projeto andar mais depressa. E mais casas no mercado.",
+      "Na minha opinião, [opinião do consultor sobre os prazos em [Concelho]].",
+      "Quanto tempo esperou pela última licença em [Concelho]? Diga-me nos comentários."
+     ],
+     "textoCompleto": "Licenças de obra 70% mais rápidas em [Região]?\n\nO que o Governo anunciou.\n\nOlá, o meu nome é [Nome], consultor imobiliário especialista em [Região]. Vamos por partes.\n\n→ Primeiro: o Governo prevê reduzir em 70% o tempo dos licenciamentos de obras, com a ajuda de inteligência artificial.\n\n→ Segundo: vai ser feito numa plataforma chamada LicencIA, em articulação com as câmaras. Para já, são projetos-piloto.\n\n→ Terceiro: se avançar, quem tem um terreno ou uma casa para recuperar pode ver o projeto andar mais depressa. E mais casas no mercado.\n\nNa minha opinião, [opinião do consultor sobre os prazos em [Concelho]].\n\nQuanto tempo esperou pela última licença em [Concelho]? Diga-me nos comentários.",
+     "ctaAlternativo": "Tem um terreno em [Região] e quer saber quanto vale? Envie-me mensagem.",
+     "titulosAlternativos": "T2: Licenças em 70% menos tempo. Vai acontecer?",
+     "palavras": 109,
+     "limitePalavras": 125
+    },
+    "gravacao": {
+     "cena": "plano frontal, de preferência junto a uma obra ou terreno. Na edição, \"-70%\" e \"LicencIA\" no ecrã.",
+     "objetivo": "Posicionar o consultor como quem acompanha as mudanças que afetam terrenos e obras na zona.",
+     "formato": null,
+     "notas": [
+      "É uma previsão do ministro, não uma lei: dizer sempre \"prevê\".",
+      "Não dar datas de entrada em funcionamento (a notícia não as indica).",
+      "Ligado ao tema de licenciamento já usado (Título urbanístico): não gravar os dois na mesma sessão."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "A 11 nov, o ministro Adjunto e da Reforma do Estado disse prever uma redução de 70% no tempo dos licenciamentos urbanísticos, com projetos-piloto e a plataforma LicencIA, gerida pela Agência para a Reforma Tecnológica do Estado em articulação com as câmaras.",
+     "sinal": "idealista/news, 11 nov (entrevista à Renascença). Sem sinal medido nas redes.",
+     "comoAdaptar": "Surfar ondas para proprietários de terrenos e casas para recuperar: o que foi anunciado, o que ainda não se sabe e o que isso pode mudar na zona."
+    },
+    "videos": [],
+    "fontes": [
+     {
+      "nome": "idealista/news, 11/11/2026: Governo promete cortar em 70% prazos dos licenciamentos com IA",
+      "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/11/78847-governo-promete-cortar-em-70-prazos-dos-licenciamentos-com-ia"
+     }
+    ]
    }
   ]
  },
