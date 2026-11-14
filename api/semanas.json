@@ -4,7 +4,7 @@
   "inicio": "2026-11-09",
   "fim": "2026-11-15",
   "titulo": "9 a 15 nov 2026",
-  "atualizadoEm": "2026-11-12",
+  "atualizadoEm": "2026-11-14",
   "itens": [
    {
     "id": "GA1",
@@ -3434,6 +3434,220 @@
      {
       "nome": "TikTok, @financasdajana, 6 jun 2026",
       "url": "https://www.tiktok.com/@financasdajana/video/7648349336673324320"
+     }
+    ]
+   },
+   {
+    "id": "GA5",
+    "categoria": "lead",
+    "tipo": "angariacao",
+    "tema": "imobiliario",
+    "subtema": null,
+    "regiao": "nacional",
+    "forcaSinal": "forte",
+    "nome": "Terreno: o BUPi já não é gratuito",
+    "tendencia": "Manchete de dados: regularizar um terreno rústico no BUPi deixou de ser gratuito e pode custar até 250 euros por processo",
+    "porqueFunciona": "Notícia desta semana que fala com um público pouco trabalhado, os donos de terrenos, e um tema que já dá gostos no TikTok. Uma só ideia, dado específico e oferta de baixo compromisso, como pede a metodologia.",
+    "adicionadoEm": "2026-11-14",
+    "copy": {
+     "titulo": "Tem um terreno em [Concelho]? Regularizar no BUPi já não é gratuito.",
+     "subtitulo": null,
+     "corpo": [
+      "Desde outubro, regularizar um terreno rústico no BUPi passou a ter custos, que podem chegar aos 250 euros por processo. Antes de avançar, saiba quanto vale o seu terreno no mercado. Clique em \"Saber mais\" e peça a sua avaliação gratuita, sem compromisso."
+     ],
+     "textoCompleto": "Tem um terreno em [Concelho]? Regularizar no BUPi já não é gratuito.\n\nDesde outubro, regularizar um terreno rústico no BUPi passou a ter custos, que podem chegar aos 250 euros por processo. Antes de avançar, saiba quanto vale o seu terreno no mercado. Clique em \"Saber mais\" e peça a sua avaliação gratuita, sem compromisso.",
+     "ctaAlternativo": null,
+     "titulosAlternativos": "Proprietário de terreno em [Concelho]: saiba quanto vale antes de o regularizar.",
+     "palavras": 55,
+     "limitePalavras": 65
+    },
+    "gravacao": {
+     "cena": "plano frontal junto a um terreno ou campo reconhecível de [Concelho]. Na edição, \"BUPi\" e \"até 250 €\" no ecrã.",
+     "objetivo": null,
+     "formato": null,
+     "notas": [
+      "\"Até 250 euros por processo\" é o valor máximo indicado pelo idealista: dizer \"podem chegar\", nunca \"custa 250 euros\".",
+      "Só se aplica a concelhos sem cadastro predial (onde existe o BUPi). Confirmar se [Concelho] está abrangido antes de gravar.",
+      "Não dizer que sem BUPi não se pode vender: confirmar com um solicitador."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "Desde 1 de outubro, a identificação e a regularização de prédios rústicos e mistos no BUPi passaram a ter custos (15 euros por representação gráfica até à nona, 10 euros a partir da décima; até 250 euros por processo, segundo o idealista). A 12 nov, o Governo aprovou alterações ao regime e fixou valores para alguns atos.",
+     "sinal": "idealista/news, 12 e 13 nov. No TikTok, o tema BUPi tem vídeos de consultores e solicitadores: o mais forte com 2183 gostos (Equipa Vítor Paiva, 9 ago); o mais recente com 277 gostos (28 out).",
+     "comoAdaptar": "Uma só ideia para quem tem terreno: antes de pagar a regularização, saber quanto vale o terreno. Oferta: avaliação gratuita do terreno."
+    },
+    "videos": [
+     {
+      "plataforma": "TikTok",
+      "autor": "@equipavitorpaiva",
+      "url": "https://www.tiktok.com/@equipavitorpaiva/video/7672042813302852886",
+      "legenda": "O que é que achas da exigência do BUPi?",
+      "metrica": "2183 gostos",
+      "data": "9 ago 2026"
+     },
+     {
+      "plataforma": "TikTok",
+      "autor": "@_vitor_neves",
+      "url": "https://www.tiktok.com/@_vitor_neves/video/7701685367069576481",
+      "legenda": "Tem um terreno rústico? Atenção: estar nas Finanças não significa estar legalmente registado!",
+      "metrica": "277 gostos",
+      "data": "28 out 2026"
+     }
+    ],
+    "fontes": [
+     {
+      "nome": "idealista/news, 12/11/2026: BUPi deixa de ser gratuito e regularizar um terreno custa até 250 euros",
+      "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/12/78881-bupi-deixa-de-ser-gratuito-e-regularizar-um-terreno-custa-ate-250-euros"
+     },
+     {
+      "nome": "idealista/news (Lusa), 13/11/2026: Governo aprova alterações ao sistema de informação cadastral e do BUPi",
+      "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/13/78912-mudancas-no-registo-de-terrenos-e-bupi-aprovadas-pelo-governo"
+     }
+    ]
+   },
+   {
+    "id": "BR14",
+    "categoria": "branding",
+    "tipo": "branding-extenso",
+    "tema": "imobiliario",
+    "subtema": null,
+    "regiao": "nacional",
+    "forcaSinal": "medio",
+    "nome": "Vender casa no inverno?",
+    "tendencia": "Contrariar a ideia de que \"as casas só se vendem na primavera\": consultores estrangeiros respondem ao mito do inverno",
+    "porqueFunciona": "É a objeção da época: em novembro, muitos proprietários dizem \"vendo na primavera\". A metodologia pede coragem e opinião, e este tema dá as duas sem precisar de números inventados.",
+    "adicionadoEm": "2026-11-14",
+    "copy": {
+     "titulo": "Vender casa no inverno em [Região]: boa ou má ideia?",
+     "subtitulo": "Muitos esperam pela primavera. Eu explico porque não é obrigatório.",
+     "corpo": [
+      "Olá, o meu nome é [Nome], consultor imobiliário especialista em [Região]. Vamos por partes.",
+      "→ Primeiro: na minha experiência, quem procura casa no inverno vem decidido. Mudança de emprego, família a crescer, um prazo para cumprir.",
+      "→ Segundo: [dado da zona sobre o número de casas à venda no inverno, se existir]. Menos concorrência, mais atenção para a sua casa.",
+      "→ Terceiro: o inverno mostra a casa como ela é. Uma casa quente e sem humidade vende-se com argumentos.",
+      "Na minha opinião, [opinião do consultor sobre a melhor altura para vender em [Região]].",
+      "Vendia a sua casa no inverno ou esperava pela primavera? Diga-me nos comentários."
+     ],
+     "textoCompleto": "Vender casa no inverno em [Região]: boa ou má ideia?\n\nMuitos esperam pela primavera. Eu explico porque não é obrigatório.\n\nOlá, o meu nome é [Nome], consultor imobiliário especialista em [Região]. Vamos por partes.\n\n→ Primeiro: na minha experiência, quem procura casa no inverno vem decidido. Mudança de emprego, família a crescer, um prazo para cumprir.\n\n→ Segundo: [dado da zona sobre o número de casas à venda no inverno, se existir]. Menos concorrência, mais atenção para a sua casa.\n\n→ Terceiro: o inverno mostra a casa como ela é. Uma casa quente e sem humidade vende-se com argumentos.\n\nNa minha opinião, [opinião do consultor sobre a melhor altura para vender em [Região]].\n\nVendia a sua casa no inverno ou esperava pela primavera? Diga-me nos comentários.",
+     "ctaAlternativo": "Está a pensar vender em [Região]? Envie-me mensagem e falamos sobre a melhor altura para a sua casa.",
+     "titulosAlternativos": "T2: Em [Região], também se vendem casas no inverno.",
+     "palavras": 123,
+     "limitePalavras": 125
+    },
+    "gravacao": {
+     "cena": "plano frontal numa sala aquecida e bem iluminada (luzes acesas, manta no sofá). Na edição, \"Inverno ou primavera?\" no ecrã.",
+     "objetivo": "Responder à objeção \"vendo na primavera\" e posicionar o consultor como quem conhece o ritmo do mercado na zona.",
+     "formato": null,
+     "notas": [
+      "Ponto 2 só com dado real da zona (anúncios ou vendas por mês). Sem dado, trocar por outro argumento do consultor.",
+      "Não afirmar que no inverno se vende mais caro: não há dado que o sustente.",
+      "Ligado ao PI3 do W41 (casa pronta para o frio): não gravar os dois na mesma sessão."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "Consultores em Itália publicam vídeos a contrariar a ideia de que no inverno não se vende casa. Em Portugal, a pesquisa \"vender casa no inverno\" no TikTok devolve sobretudo vídeos antigos: o tema está pouco trabalhado cá.",
+     "sinal": "TikTok, pesquisa \"vender casa no inverno\" (14 nov): vídeos italianos com 14 gostos (22 jul 2026) e 48 gostos (jan 2022); em Portugal, só um vídeo de 2023 sem gostos visíveis. Sinal fraco, tema sazonal.",
+     "comoAdaptar": "Branding de valor para proprietários que adiam a venda para a primavera: três pontos com a opinião do consultor e um dado da zona, se existir."
+    },
+    "videos": [
+     {
+      "plataforma": "TikTok",
+      "autor": "@arcadiarealestate_",
+      "url": "https://www.tiktok.com/@arcadiarealestate_/video/7665353056480988448",
+      "legenda": "Non farti ingannare da chi ti dice che le case si vendono solo quando sbocciano i fiori (Itália)",
+      "metrica": "14 gostos",
+      "data": "22 jul 2026"
+     },
+     {
+      "plataforma": "TikTok",
+      "autor": "@arcangeloiannicelli",
+      "url": "https://www.tiktok.com/@arcangeloiannicelli/video/7049741474082147590",
+      "legenda": "In inverno vendi al massimo prezzo (Itália)",
+      "metrica": "48 gostos",
+      "data": "5 jan 2022"
+     }
+    ],
+    "fontes": [
+     {
+      "nome": "TikTok, pesquisa \"vender casa no inverno\" (14/11/2026)",
+      "url": "https://www.tiktok.com/search/video?q=vender%20casa%20no%20inverno"
+     }
+    ]
+   },
+   {
+    "id": "BR15",
+    "categoria": "branding",
+    "tipo": "dinamica",
+    "tema": "imobiliario",
+    "subtema": null,
+    "regiao": "nacional",
+    "forcaSinal": "medio",
+    "nome": "Terreno: precisa ou não precisa?",
+    "tendencia": "Dinâmica \"precisa ou não precisa?\": o que é preciso para vender um terreno, com o BUPi como gancho",
+    "porqueFunciona": "Formato leve que entrega valor a um público pouco trabalhado, os donos de terrenos, e aproveita uma notícia da semana. Cada resposta mostra conhecimento, como pede a metodologia nas dinâmicas.",
+    "adicionadoEm": "2026-11-14",
+    "copy": {
+     "titulo": "[Nome], para vender um terreno em [Concelho], precisa ou não precisa de…",
+     "subtitulo": null,
+     "corpo": [
+      "→ Caderneta predial atualizada?",
+      "→ Certidão do registo predial?",
+      "→ Terreno identificado no BUPi?",
+      "→ Estremas confirmadas com os vizinhos?",
+      "→ Informação da câmara sobre o que se pode construir?",
+      "→ Licença de construção aprovada?",
+      "→ Terreno limpo antes das visitas?",
+      "E o seu terreno, o que lhe falta? Diga-me nos comentários."
+     ],
+     "textoCompleto": "[Nome], para vender um terreno em [Concelho], precisa ou não precisa de…\n\n→ Caderneta predial atualizada?\n\n→ Certidão do registo predial?\n\n→ Terreno identificado no BUPi?\n\n→ Estremas confirmadas com os vizinhos?\n\n→ Informação da câmara sobre o que se pode construir?\n\n→ Licença de construção aprovada?\n\n→ Terreno limpo antes das visitas?\n\nE o seu terreno, o que lhe falta? Diga-me nos comentários.",
+     "ctaAlternativo": null,
+     "titulosAlternativos": "Versão para quem compra: \"[Nome], antes de comprar um terreno em [Concelho], confirma ou não confirma…\"",
+     "palavras": 57,
+     "limitePalavras": 125
+    },
+    "gravacao": {
+     "cena": "Nota de gravação: o videógrafo lê cada linha e o consultor responde rápido (5 a 10 segundos): \"precisa\", \"não precisa\" ou \"depende\". Justificação curta em 2 ou 3 itens (BUPi, informação da câmara, licença). Na edição, a resposta escrita no ecrã. Gravar junto a um terreno, se possível.",
+     "objetivo": null,
+     "formato": null,
+     "notas": [
+      "As respostas sobre documentos obrigatórios variam: o consultor confirma com um solicitador antes de gravar, sobretudo no BUPi e na licença.",
+      "Formato parecido com CRD-BD1 (\"Levas ou não levas?\"), mas noutro tema. Pode ir na mesma sessão que o GA5."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "Escolha rápida sobre os documentos e passos para vender um terreno. Aproveita a conversa sobre o BUPi, que deixou de ser gratuito em outubro.",
+     "sinal": "Vídeos sobre BUPi e terrenos no TikTok: 2183 gostos (Equipa Vítor Paiva, 9 ago), 277 gostos (Vítor Neves, 28 out), 248 gostos (José Duro, 19 mai). Notícia idealista/news, 12 nov.",
+     "comoAdaptar": "O videógrafo lê cada item; o consultor responde \"precisa\", \"não precisa\" ou \"depende\", com uma frase de justificação em 2 ou 3 itens."
+    },
+    "videos": [
+     {
+      "plataforma": "TikTok",
+      "autor": "@equipavitorpaiva",
+      "url": "https://www.tiktok.com/@equipavitorpaiva/video/7672042813302852886",
+      "legenda": "O que é que achas da exigência do BUPi?",
+      "metrica": "2183 gostos",
+      "data": "9 ago 2026"
+     },
+     {
+      "plataforma": "TikTok",
+      "autor": "@odurodoimobiliario",
+      "url": "https://www.tiktok.com/@odurodoimobiliario/video/7641578183850069281",
+      "legenda": "O Golpe do Terreno: A Armadilha do BUPi para Emigrantes!",
+      "metrica": "248 gostos",
+      "data": "19 mai 2026"
+     }
+    ],
+    "fontes": [
+     {
+      "nome": "idealista/news, 12/11/2026: BUPi deixa de ser gratuito e regularizar um terreno custa até 250 euros",
+      "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/12/78881-bupi-deixa-de-ser-gratuito-e-regularizar-um-terreno-custa-ate-250-euros"
+     },
+     {
+      "nome": "TikTok, @equipavitorpaiva: O que é que achas da exigência do BUPi?",
+      "url": "https://www.tiktok.com/@equipavitorpaiva/video/7672042813302852886"
      }
     ]
    }
