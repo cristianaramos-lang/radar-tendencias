@@ -4,7 +4,7 @@
   "inicio": "2026-11-16",
   "fim": "2026-11-22",
   "titulo": "16 a 22 nov 2026",
-  "atualizadoEm": "2026-11-17",
+  "atualizadoEm": "2026-11-18",
   "itens": [
    {
     "id": "GA1",
@@ -811,6 +811,145 @@
      {
       "nome": "Sábado, 28/10/2026: Orçamento do Estado para 2027 aprovado na generalidade (votação final global a 24 nov)",
       "url": "https://www.sabado.pt/portugal/amp/orcamento-de-estado-para-2027-aprovado-na-generalidade"
+     }
+    ]
+   },
+   {
+    "id": "GA4",
+    "categoria": "lead",
+    "tipo": "angariacao",
+    "tema": "imobiliario",
+    "subtema": null,
+    "regiao": "nacional",
+    "forcaSinal": "forte",
+    "nome": "Comprou casa antes de 2010?",
+    "tendencia": "Comparação entre épocas: \"Comprar casa: 1990 vs 2010 vs 2026\"",
+    "porqueFunciona": "O formato está a viralizar porque toda a gente compara o que pagou com o que se pede hoje. Quem comprou antes de 2010 é o proprietário com mais margem para vender: um título direto, uma ideia e uma oferta de baixo compromisso.",
+    "adicionadoEm": "2026-11-18",
+    "copy": {
+     "titulo": "Comprou casa em [Concelho] antes de 2010?",
+     "subtitulo": null,
+     "corpo": [
+      "Então sabe quanto pagou, mas provavelmente não sabe quanto vale hoje. Os preços das casas em Portugal estão em máximos históricos e em [Concelho] o metro quadrado passou de [X] euros para [Y] euros. Clique em \"Saber mais\" e peça a avaliação da sua casa, gratuita e sem compromisso."
+     ],
+     "textoCompleto": "Comprou casa em [Concelho] antes de 2010?\n\nEntão sabe quanto pagou, mas provavelmente não sabe quanto vale hoje. Os preços das casas em Portugal estão em máximos históricos e em [Concelho] o metro quadrado passou de [X] euros para [Y] euros. Clique em \"Saber mais\" e peça a avaliação da sua casa, gratuita e sem compromisso.",
+     "ctaAlternativo": null,
+     "titulosAlternativos": "1990, 2010 ou 2026: em que ano comprou a sua casa em [Concelho]?",
+     "palavras": 56,
+     "limitePalavras": 65
+    },
+    "gravacao": {
+     "cena": "plano frontal em frente a um prédio mais antigo de [Concelho]. Na edição, legenda \"2010 → 2026\" quando diz \"antes de 2010\".",
+     "objetivo": null,
+     "formato": null,
+     "notas": [
+      "[X] e [Y]: preço por m² do concelho (INE ou idealista) no ano de referência e hoje. Confirmar na fonte antes de gravar; se não houver dado do concelho, usar o do distrito e dizê-lo.",
+      "Máximo histórico: dado nacional do idealista de outubro (2 nov). Atualizar se sair dado novo.",
+      "O formato \"antes vs hoje\" já esteve no W40 (BR2, info de mercado, com o vídeo de @cristiana.lima__). Volta agora com um vídeo muito maior (188K gostos, 3 nov); aqui o ângulo é outro: angariação (GA4) e dinâmica (BR10)."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "Vídeos que comparam o que era comprar casa em Portugal em décadas diferentes (preço, crédito, salários), em tom de humor ou de choque. Um deles passou os 188 mil gostos em duas semanas.",
+     "sinal": "TikTok a 18 nov: @joaobentomc, 188K gostos, 1006 comentários e 15K partilhas (3 nov); @cristiana.lima__, 42.9K gostos (9 ago). Encontrados nas pesquisas \"comprar casa antes do natal\" e \"1990 vs 2010 vs 2026 casa\".",
+     "comoAdaptar": "Para o proprietário que comprou há muitos anos e não sabe quanto a casa vale hoje. A comparação entre épocas vira uma oferta: a avaliação."
+    },
+    "videos": [
+     {
+      "plataforma": "TikTok",
+      "autor": "@joaobentomc",
+      "url": "https://www.tiktok.com/@joaobentomc/video/7703991940399828256",
+      "legenda": "1990 vs 2010 vs 2026 (título da página: \"Comprar Casa: 1990 vs 2010 vs 2026 | O Preço da Casa em Portugal\")",
+      "metrica": "188K gostos, 1006 comentários, 15K partilhas",
+      "data": "3 nov 2026"
+     },
+     {
+      "plataforma": "TikTok",
+      "autor": "@cristiana.lima__",
+      "url": "https://www.tiktok.com/@cristiana.lima__/video/7672077463073115425",
+      "legenda": "Comprar casa em 1980 VS Comprar casa em 2026",
+      "metrica": "42.9K gostos, 320 comentários",
+      "data": "9 ago 2026"
+     }
+    ],
+    "fontes": [
+     {
+      "nome": "TikTok, @joaobentomc, Comprar Casa: 1990 vs 2010 vs 2026, 3 nov 2026",
+      "url": "https://www.tiktok.com/@joaobentomc/video/7703991940399828256"
+     },
+     {
+      "nome": "TikTok, @cristiana.lima__, Comprar casa em 1980 VS 2026, 9 ago 2026",
+      "url": "https://www.tiktok.com/@cristiana.lima__/video/7672077463073115425"
+     },
+     {
+      "nome": "idealista/Cision, 02/11/2026: preços das casas sobem 7,5% em outubro e atingem novo máximo histórico",
+      "url": "https://news.cision.com/pt/idealista/r/precos-das-casas-sobem-7-5--em-outubro-e-atingem-novo-maximo-historico,c639292110530000000"
+     }
+    ]
+   },
+   {
+    "id": "BR10",
+    "categoria": "branding",
+    "tipo": "dinamica",
+    "tema": "imobiliario",
+    "subtema": null,
+    "regiao": "nacional",
+    "forcaSinal": "medio",
+    "nome": "1990, 2010 ou 2026?",
+    "tendencia": "Dinâmica \"1990, 2010 ou 2026?\": escolher a melhor época para cada passo do imobiliário",
+    "porqueFunciona": "Escolhas rápidas sobre um tema que já está a gerar milhares de comentários. Mostra a personalidade do consultor e deixa uma ideia útil em cada resposta, como pede a metodologia nas dinâmicas.",
+    "adicionadoEm": "2026-11-18",
+    "copy": {
+     "titulo": "[Nome], em [Região], 1990, 2010 ou 2026: quando era melhor…",
+     "subtitulo": null,
+     "corpo": [
+      "→ Comprar a primeira casa?",
+      "→ Vender casa?",
+      "→ Pedir crédito à habitação?",
+      "→ Arrendar casa?",
+      "→ Encontrar casa no centro de [Região]?",
+      "→ Ser consultor imobiliário?",
+      "E para si, qual era o melhor ano? Diga-me nos comentários."
+     ],
+     "textoCompleto": "[Nome], em [Região], 1990, 2010 ou 2026: quando era melhor…\n\n→ Comprar a primeira casa?\n\n→ Vender casa?\n\n→ Pedir crédito à habitação?\n\n→ Arrendar casa?\n\n→ Encontrar casa no centro de [Região]?\n\n→ Ser consultor imobiliário?\n\nE para si, qual era o melhor ano? Diga-me nos comentários.",
+     "ctaAlternativo": null,
+     "titulosAlternativos": null,
+     "palavras": 42,
+     "limitePalavras": 125
+    },
+    "gravacao": {
+     "cena": "Nota de gravação: o videógrafo lê a pergunta e o consultor responde só com o ano, em 3 a 5 segundos. Justificação curta em 2 ou 3 (vender casa, pedir crédito, ser consultor). Na edição, o ano escolhido aparece em letras grandes.",
+     "objetivo": null,
+     "formato": null,
+     "notas": [
+      "Respostas pela opinião e experiência do consultor: sem números.",
+      "O formato \"antes vs hoje\" já esteve no W40 (BR2, info de mercado, com o vídeo de @cristiana.lima__). Volta agora com um vídeo muito maior (188K gostos, 3 nov); aqui o ângulo é outro: angariação (GA4) e dinâmica (BR10)."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "O videógrafo pergunta qual era a melhor época para comprar, vender ou pedir crédito, e o consultor escolhe um ano e justifica numa frase.",
+     "sinal": "TikTok a 18 nov: @joaobentomc, 188K gostos, 1006 comentários e 15K partilhas (3 nov); @cristiana.lima__, 42.9K gostos (9 ago). Encontrados nas pesquisas \"comprar casa antes do natal\" e \"1990 vs 2010 vs 2026 casa\".",
+     "comoAdaptar": "Transforma a comparação viral numa dinâmica de escolhas rápidas, que mostra a opinião do consultor sobre o mercado."
+    },
+    "videos": [
+     {
+      "plataforma": "TikTok",
+      "autor": "@joaobentomc",
+      "url": "https://www.tiktok.com/@joaobentomc/video/7703991940399828256",
+      "legenda": "1990 vs 2010 vs 2026 (título da página: \"Comprar Casa: 1990 vs 2010 vs 2026 | O Preço da Casa em Portugal\")",
+      "metrica": "188K gostos, 1006 comentários, 15K partilhas",
+      "data": "3 nov 2026"
+     }
+    ],
+    "fontes": [
+     {
+      "nome": "TikTok, @joaobentomc, Comprar Casa: 1990 vs 2010 vs 2026, 3 nov 2026",
+      "url": "https://www.tiktok.com/@joaobentomc/video/7703991940399828256"
+     },
+     {
+      "nome": "Metodologia de Scripting NPMedia 5.0, dinâmicas",
+      "url": "https://docs.google.com/document/d/1wnQIquUpaaZIRpbT2a0oxXniv15abyCBHwQZ-eQiSnk"
      }
     ]
    },
