@@ -4,7 +4,7 @@
   "inicio": "2026-11-16",
   "fim": "2026-11-22",
   "titulo": "16 a 22 nov 2026",
-  "atualizadoEm": "2026-11-18",
+  "atualizadoEm": "2026-11-20",
   "itens": [
    {
     "id": "GA1",
@@ -2177,6 +2177,63 @@
     ]
    },
    {
+    "id": "LSB-BR2",
+    "categoria": "branding",
+    "tipo": "branding-extenso",
+    "tema": "imobiliario",
+    "subtema": null,
+    "regiao": "lisboa",
+    "forcaSinal": "novo",
+    "nome": "Lisboa: uma empresa de habitação para 18 concelhos",
+    "tendencia": "Surfar ondas: Moedas propõe empresa metropolitana de habitação e banco de devolutos na Área Metropolitana de Lisboa",
+    "porqueFunciona": "Tema local e fresco, que mexe com quem procura casa fora de Lisboa. Três pontos simples e uma opinião com cunho, como pede o branding de valor, sem tomar partido.",
+    "adicionadoEm": "2026-11-20",
+    "copy": {
+     "titulo": "Lisboa quer uma empresa de habitação para 18 concelhos",
+     "subtitulo": "O que pode mudar em [Concelho]?",
+     "corpo": [
+      "Olá, o meu nome é [Nome], consultor imobiliário em [Concelho]. A 17 de novembro, o presidente da Câmara de Lisboa e da Área Metropolitana propôs três ideias.",
+      "→ Primeiro: uma empresa metropolitana de habitação, com algumas funções que hoje são do IHRU.",
+      "→ Segundo: um banco de terrenos e casas devolutas dos 18 concelhos.",
+      "→ Terceiro: uma só carta de habitação para a região, em vez de uma por concelho.",
+      "Para já, são propostas. Na minha opinião, a procura de casa não para na fronteira do concelho: quem não encontra casa em Lisboa procura em [Concelho].",
+      "Concorda? Deixe-me a sua opinião nos comentários."
+     ],
+     "textoCompleto": "Lisboa quer uma empresa de habitação para 18 concelhos\n\nO que pode mudar em [Concelho]?\n\nOlá, o meu nome é [Nome], consultor imobiliário em [Concelho]. A 17 de novembro, o presidente da Câmara de Lisboa e da Área Metropolitana propôs três ideias.\n\n→ Primeiro: uma empresa metropolitana de habitação, com algumas funções que hoje são do IHRU.\n\n→ Segundo: um banco de terrenos e casas devolutas dos 18 concelhos.\n\n→ Terceiro: uma só carta de habitação para a região, em vez de uma por concelho.\n\nPara já, são propostas. Na minha opinião, a procura de casa não para na fronteira do concelho: quem não encontra casa em Lisboa procura em [Concelho].\n\nConcorda? Deixe-me a sua opinião nos comentários.",
+     "ctaAlternativo": "Partilhe com quem está à procura de casa na Área Metropolitana.",
+     "titulosAlternativos": null,
+     "palavras": 115,
+     "limitePalavras": 125
+    },
+    "gravacao": {
+     "cena": "gravar num local reconhecível de [Concelho] com vista para Lisboa ou para a ponte; cada ponto aparece no ecrã com um número grande.",
+     "objetivo": "Mostrar que o consultor acompanha a habitação na região e explica o que muda para o seu concelho.",
+     "formato": null,
+     "notas": [
+      "São propostas, sem decisão: confirmar antes de gravar se houve avanço (reunião da Área Metropolitana ou do Governo).",
+      "Não tomar posição partidária. A notícia refere também a polémica da venda de 10 terrenos municipais em hasta pública: deixar de fora.",
+      "Só para consultores dos 18 municípios da Área Metropolitana de Lisboa (inclui concelhos do distrito de Setúbal)."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "Na Assembleia Municipal de 17 nov, Carlos Moedas (presidente da Câmara de Lisboa e da Área Metropolitana) propôs uma empresa metropolitana de habitação com competências hoje do IHRU, um banco de terrenos e imóveis devolutos dos 18 municípios e uma carta metropolitana de habitação. Diz que a ideia foi bem aceite pelos 18 presidentes de câmara.",
+     "sinal": "DN/Lusa (17 nov, 21:59). Sem sinal medido nas redes.",
+     "comoAdaptar": "Info de mercado para consultores da Área Metropolitana: explicar em 3 pontos o que foi proposto e ligar ao concelho do consultor."
+    },
+    "videos": [],
+    "fontes": [
+     {
+      "nome": "DN/Lusa, 17/11/2026: Moedas propõe empresa ao nível da Área Metropolitana de Lisboa para responder à crise",
+      "url": "https://www.dn.pt/pol%C3%ADtica/moedas-prope-empresa-ao-nvel-da-rea-metropolitana-de-lisboa-para-responder-crise"
+     },
+     {
+      "nome": "Metodologia de Scripting NPMedia 5.0, branding de valor",
+      "url": "https://docs.google.com/document/d/1wnQIquUpaaZIRpbT2a0oxXniv15abyCBHwQZ-eQiSnk"
+     }
+    ]
+   },
+   {
     "id": "STB-GA1",
     "categoria": "lead",
     "tipo": "angariacao",
@@ -2464,7 +2521,7 @@
     "textoLegal": "[Firma], Lda., intermediário de crédito [vinculado / a título acessório / não vinculado], registado no Banco de Portugal sob o n.º [número de registo], que presta o(s) serviço(s) de [serviços autorizados], com vínculo a [denominação social completa dos bancos] [se aplicável: em exclusividade]. Tem de estar no ecrã durante todo o vídeo, em texto legível.",
     "tendenciaDetalhe": {
      "descricao": "A proposta de PSD e CDS para o OE2027 suspende até ao fim de 2027 a comissão de amortização antecipada nos créditos a taxa variável; nos contratos a taxa mista, só vale quando o contrato já está na fase variável. A taxa mista está em 86% das novas operações de setembro (Banco de Portugal, via ComparaJá).",
-     "sinal": "Hora H (7 nov) e Pressnet (16 nov): votações na especialidade a partir de 18 nov, votação final global a 24 nov. Sem sinal medido nas redes (TikTok e Instagram não lidos nesta pesquisa).",
+     "sinal": "Hora H (7 nov) e Pressnet (16 nov): votações na especialidade a partir de 18 nov, votação final global a 24 nov. Sem sinal medido nas redes (TikTok e Instagram não lidos nesta pesquisa). Atualização a 20 nov: a proposta foi aprovada na especialidade a 18 nov, junto com a do PS que elimina a comissão de forma permanente na fase variável (Executive Digest/Lusa); falta a votação final de 24 nov.",
      "comoAdaptar": "Pergunta direta a quem tem taxa mista (a maioria dos contratos novos): sabes quando acaba o período fixo? Oferta: análise do contrato. Sem números de produto."
     },
     "videos": [],
@@ -2580,6 +2637,59 @@
     ]
    },
    {
+    "id": "CRD-GA4",
+    "categoria": "lead",
+    "tipo": "angariacao",
+    "tema": "credito",
+    "subtema": "habitacao",
+    "regiao": "nacional",
+    "forcaSinal": "novo",
+    "nome": "A juntar dinheiro para amortizar?",
+    "tendencia": "Surfar ondas: Parlamento aprova na especialidade o fim da comissão de amortização na fase de taxa variável",
+    "porqueFunciona": "É a notícia de crédito da semana e toca quem já tem dinheiro de lado. Uma ideia só (a regra mudou, falta a votação final) e uma oferta de baixo compromisso, como pede a metodologia.",
+    "adicionadoEm": "2026-11-20",
+    "copy": {
+     "titulo": "Estás a juntar dinheiro para amortizar o crédito da casa?",
+     "subtitulo": null,
+     "corpo": [
+      "A 18 de novembro, o Parlamento aprovou no Orçamento para 2027 o fim da comissão de amortização na fase de taxa variável. Falta a votação final, a 24 de novembro. Eu leio o teu contrato contigo. [Frase de custo aprovada pela empresa.] Clica em \"Saber mais\" e pede a tua análise, sem compromisso."
+     ],
+     "textoCompleto": "Estás a juntar dinheiro para amortizar o crédito da casa?\n\nA 18 de novembro, o Parlamento aprovou no Orçamento para 2027 o fim da comissão de amortização na fase de taxa variável. Falta a votação final, a 24 de novembro. Eu leio o teu contrato contigo. [Frase de custo aprovada pela empresa.] Clica em \"Saber mais\" e pede a tua análise, sem compromisso.",
+     "ctaAlternativo": null,
+     "titulosAlternativos": "Vais amortizar o crédito da casa em 2027? Vê isto primeiro.",
+     "palavras": 63,
+     "limitePalavras": 65
+    },
+    "gravacao": {
+     "cena": "plano frontal com um mealheiro ou um envelope na mão; pousa-o em cima do contrato ao dizer \"eu leio o teu contrato contigo\".",
+     "objetivo": null,
+     "formato": null,
+     "notas": [
+      "**Confirmar antes de gravar:** o resultado da votação final global de 24 nov e a redação final (a proposta da AD e a do PS foram ambas aprovadas e sobrepõem-se). Se a medida cair, não gravar.",
+      "Só se aplica à taxa variável e à fase variável da mista; nunca à taxa fixa. Não dizer valores de comissões nem prometer que amortizar compensa.",
+      "Complementa CRD-GA1 (em que fase está a taxa mista): aqui o público é quem está a poupar para amortizar.",
+      "**Texto legal obrigatório:** ver o bloco abaixo. Frase de custo só a aprovada pela empresa. Sem taxas, spreads ou prestações no guião."
+     ]
+    },
+    "textoLegal": "[Firma], Lda., intermediário de crédito [vinculado / a título acessório / não vinculado], registado no Banco de Portugal sob o n.º [número de registo], que presta o(s) serviço(s) de [serviços autorizados], com vínculo a [denominação social completa dos bancos] [se aplicável: em exclusividade]. Tem de estar no ecrã durante todo o vídeo, em texto legível.",
+    "tendenciaDetalhe": {
+     "descricao": "A 18 nov, nas votações do OE2027, passaram a proposta de PSD e CDS (suspende a comissão de reembolso antecipado até 31 dez 2027 na taxa variável) e a do PS (elimina-a de forma permanente no período de taxa variável). Taxa fixa e período fixo da mista ficam de fora. Votação final global a 24 nov.",
+     "sinal": "Executive Digest/Lusa (18 nov, 22:05), Público, DN, Renascença e idealista/news (19 nov) com a mesma notícia. Sem sinal medido nas redes nesta atualização.",
+     "comoAdaptar": "Lead para quem anda a poupar para amortizar: a notícia dá o gancho e a oferta é ler o contrato e ver as opções, sem prometer poupança."
+    },
+    "videos": [],
+    "fontes": [
+     {
+      "nome": "Executive Digest/Lusa, 18/11/2026: OE2027, aprovada a suspensão da comissão de reembolso antecipado de créditos à habitação",
+      "url": "https://executivedigest.sapo.pt/oe2027-aprovada-a-suspensao-da-comissao-de-reembolso-antecipado-de-creditos-a-habitacao/"
+     },
+     {
+      "nome": "ComparaJá, 16/11/2026: PS garante fim da taxa de reembolso antecipado em 2027",
+      "url": "https://www.comparaja.pt/credito-habitacao/noticias/ps-garante-fim-taxa-reembolso-antecipado-credito-habitacao-novembro-2026"
+     }
+    ]
+   },
+   {
     "id": "CRD-BE1",
     "categoria": "branding",
     "tipo": "branding-extenso",
@@ -2621,7 +2731,7 @@
     "textoLegal": "[Firma], Lda., intermediário de crédito [vinculado / a título acessório / não vinculado], registado no Banco de Portugal sob o n.º [número de registo], que presta o(s) serviço(s) de [serviços autorizados], com vínculo a [denominação social completa dos bancos] [se aplicável: em exclusividade]. Tem de estar no ecrã durante todo o vídeo, em texto legível.",
     "tendenciaDetalhe": {
      "descricao": "Na especialidade do OE2027: PSD e CDS propõem suspender até ao fim de 2027 a comissão de amortização antecipada a taxa variável (o PS quer acabar com ela); o Chega quer recuperar a dedução dos juros no IRS para contratos depois de 2011; a proposta do Governo prevê manter a garantia pública para jovens em 2027. Votação final global a 24 nov.",
-     "sinal": "Pressnet (16 nov), ComparaJá (16 nov), Doutor Finanças (2 nov), Simula (10 nov). Sem sinal medido nas redes (TikTok e Instagram não lidos nesta pesquisa).",
+     "sinal": "Pressnet (16 nov), ComparaJá (16 nov), Doutor Finanças (2 nov), Simula (10 nov). Sem sinal medido nas redes (TikTok e Instagram não lidos nesta pesquisa). Atualização a 20 nov: na especialidade (18 nov) foram aprovadas a suspensão da comissão de amortização (AD) e a eliminação permanente (PS), na fase de taxa variável (Executive Digest/Lusa).",
      "comoAdaptar": "Resumo em três pontos, com data certa (24 nov). Diferente do W46: junta as três medidas e a data da votação, sem opinar sobre partidos."
     },
     "videos": [],
