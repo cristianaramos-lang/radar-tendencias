@@ -4,7 +4,7 @@
   "inicio": "2026-11-23",
   "fim": "2026-11-29",
   "titulo": "23 a 29 nov 2026",
-  "atualizadoEm": "2026-11-24",
+  "atualizadoEm": "2026-11-25",
   "itens": [
    {
     "id": "GA1",
@@ -663,7 +663,7 @@
     "tema": "imobiliario",
     "subtema": null,
     "regiao": "nacional",
-    "forcaSinal": "novo",
+    "forcaSinal": "medio",
     "nome": "Segunda casa sem mais-valias",
     "tendencia": "Surfar ondas: o Parlamento aprovou na especialidade do OE2027 a isenção de mais-valias na venda de segundas casas e casas vazias (19 nov)",
     "porqueFunciona": "É a medida do Orçamento que mais mexe com proprietários e foi notícia esta semana. Dá ao consultor uma razão concreta para falar com quem tem uma segunda casa parada, pela positiva.",
@@ -694,10 +694,27 @@
     "textoLegal": null,
     "tendenciaDetalhe": {
      "descricao": "Proposta do PS aprovada a 19 nov contra a vontade do Governo: durante três anos, a venda de segundas casas ou casas vazias fica isenta de IRS sobre a mais-valia até 300 mil euros (entre 300 e 500 mil, paga sobre 25% do ganho), se o comprador a usar como habitação própria e permanente ou a arrendar dentro do arrendamento acessível.",
-     "sinal": "RTP e Forbes Portugal, 19 e 20 nov. Votação final global do OE2027 marcada para 24 nov, 14h30 (resultado por confirmar). Sem sinal medido nas redes.",
+     "sinal": "RTP e Forbes Portugal, 19 e 20 nov. Sem sinal medido nas redes. Atualização 25 nov: OE2027 aprovado em votação final global a 24 nov (ECO, Forbes Portugal); falta a promulgação e a publicação. TikTok: @_vitor_neves sobre vender a segunda casa sem mais-valias, 522 gostos (há 5 dias).",
      "comoAdaptar": "Uma só ideia: quem tem uma segunda casa parada pode vir a vendê-la sem imposto sobre o lucro. Oferta: avaliação gratuita."
     },
-    "videos": [],
+    "videos": [
+     {
+      "plataforma": "TikTok",
+      "autor": "@_vitor_neves",
+      "url": "https://www.tiktok.com/@_vitor_neves/video/7710259299867544865",
+      "legenda": "Vender uma segunda habitação sem pagar mais-valias? Pode estar a chegar uma grande mudança!",
+      "metrica": "522 gostos",
+      "data": "há 5 dias (visto a 25 nov)"
+     },
+     {
+      "plataforma": "TikTok",
+      "autor": "@patricia.nobre121",
+      "url": "https://www.tiktok.com/@patricia.nobre121/video/7711846209035570471",
+      "legenda": "Mais-valias: 3 exemplos no vídeo + 1 aqui na descrição!",
+      "metrica": "89 gostos",
+      "data": "há 1 dia (visto a 25 nov)"
+     }
+    ],
     "fontes": [
      {
       "nome": "RTP, 19/11/2026: OE2027. Chumbadas propostas da oposição para baixar IRS e aprovadas as descidas do Governo",
@@ -710,6 +727,10 @@
      {
       "nome": "Parlamento, nov 2026: OE2027, debate e votação na especialidade e votação final global (23 e 24 nov)",
       "url": "https://www.parlamento.pt/Paginas/2026/novembro/OE2027_debate-votacao-especialidade-final-globa-23-24nov.aspx"
+     },
+     {
+      "nome": "ECO, 24/11/2026: Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+      "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/"
      }
     ]
    },
@@ -755,7 +776,7 @@
     "textoLegal": null,
     "tendenciaDetalhe": {
      "descricao": "Proposta do PS aprovada a 18 nov: o Governo cria, durante 2027, uma garantia pública que cobre rendas em falta e estragos da responsabilidade do inquilino. Adesão voluntária para senhorios com rendas acessíveis; o Estado paga ao senhorio e pode cobrar depois ao inquilino. As regras ainda vão ser definidas.",
-     "sinal": "DN/Lusa, 18 nov; Forbes Portugal. Sem sinal medido nas redes.",
+     "sinal": "DN/Lusa, 18 nov; Forbes Portugal. Sem sinal medido nas redes. Atualização 25 nov: OE2027 aprovado em votação final global a 24 nov (ECO, Forbes Portugal); falta a promulgação e a publicação.",
      "comoAdaptar": "Surfar ondas: explicar a medida aos proprietários que têm medo de arrendar, com prudência (ainda falta a regulamentação), e pedir a opinião."
     },
     "videos": [],
@@ -767,6 +788,10 @@
      {
       "nome": "Forbes Portugal, nov 2026: OE2027: O que foi votado e aprovado na especialidade",
       "url": "https://www.forbespt.com/oe2027-o-que-foi-votado-e-aprovado-na-especialidade/"
+     },
+     {
+      "nome": "ECO, 24/11/2026: Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+      "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/"
      }
     ]
    },
@@ -866,7 +891,7 @@
     "textoLegal": null,
     "tendenciaDetalhe": {
      "descricao": "Dinâmica em cadeia: o consultor escolhe entre duas opções para uma segunda casa e a escolha passa à pergunta seguinte (\"o que escolheste ou…\"). Usa as duas novidades da semana sem números.",
-     "sinal": "Formato da casa sem sinal medido; notícias de 18 e 19 nov (RTP, DN/Lusa).",
+     "sinal": "Formato da casa sem sinal medido; notícias de 18 e 19 nov (RTP, DN/Lusa). Atualização 25 nov: OE2027 aprovado em votação final global a 24 nov (ECO, Forbes Portugal); falta a promulgação e a publicação.",
      "comoAdaptar": "Leva o tema do Orçamento para um formato leve, de respostas rápidas, que mostra como o consultor pensa."
     },
     "videos": [],
@@ -878,6 +903,10 @@
      {
       "nome": "DN/Lusa, 18/11/2026: OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
       "url": "https://www.dn.pt/política/oe2027-governo-obrigado-a-criar-garantia-pblica-para-pagamento-de-rendas-proposta-pelo-ps"
+     },
+     {
+      "nome": "ECO, 24/11/2026: Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+      "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/"
      }
     ]
    },
@@ -2430,7 +2459,7 @@
     "textoLegal": "[Firma], Lda., intermediário de crédito [vinculado / a título acessório / não vinculado], registado no Banco de Portugal sob o n.º [número de registo], que presta o(s) serviço(s) de [serviços autorizados], com vínculo a [denominação social completa dos bancos] [se aplicável: em exclusividade]. Tem de estar no ecrã durante todo o vídeo, em texto legível.",
     "tendenciaDetalhe": {
      "descricao": "Na especialidade do OE2027 (19 nov) foi aprovada a proposta de PSD e CDS que alarga a garantia pública para jovens até aos 35 anos ao crédito para comprar terreno e construir a primeira habitação, incluindo autoconstrução e construção modular, com isenção de IMT no terreno e um período de carência de capital e juros de três anos.",
-     "sinal": "Forbes Portugal e Executive Digest (19 nov), Jornal Económico (23 nov, com o sentido de voto). Votação final global marcada para 24 nov, sem resultado publicado à hora da pesquisa. Sem sinal medido nas redes (TikTok e Instagram não lidos nesta pesquisa).",
+     "sinal": "Forbes Portugal e Executive Digest (19 nov), Jornal Económico (23 nov, com o sentido de voto). Votação final global marcada para 24 nov, sem resultado publicado à hora da pesquisa. Sem sinal medido nas redes (TikTok e Instagram não lidos nesta pesquisa). Atualização 25 nov: OE2027 aprovado em votação final global a 24 nov (ECO, Forbes Portugal); falta a promulgação e a publicação.",
      "comoAdaptar": "Lead para um público que até agora ficava de fora da garantia: jovens com terreno ou a pensar construir. Oferta: análise do caso. Sem percentagens de financiamento nem valores."
     },
     "videos": [],
@@ -2446,6 +2475,10 @@
      {
       "nome": "Jornal Económico, 23/11/2026: as propostas para a habitação aprovadas no OE2027",
       "url": "https://jornaleconomico.sapo.pt/noticias/entre-coligacoes-e-derrotas-as-propostas-para-a-habitacao-aprovadas-no-oe2027/"
+     },
+     {
+      "nome": "ECO, 24/11/2026: Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+      "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/"
      }
     ]
    },
@@ -2487,7 +2520,7 @@
     "textoLegal": "[Firma], Lda., intermediário de crédito [vinculado / a título acessório / não vinculado], registado no Banco de Portugal sob o n.º [número de registo], que presta o(s) serviço(s) de [serviços autorizados], com vínculo a [denominação social completa dos bancos] [se aplicável: em exclusividade]. Tem de estar no ecrã durante todo o vídeo, em texto legível.",
     "tendenciaDetalhe": {
      "descricao": "Na especialidade do OE2027 (19 nov), foram rejeitadas as propostas que permitiam deduzir no IRS os juros dos créditos à habitação contratados depois de dezembro de 2011, com o voto contra de PSD e CDS e a abstenção do PS. Estes contratos continuam sem dedução.",
-     "sinal": "Executive Digest (19 nov) e Jornal Económico (ao minuto, 19 e 20 nov). Sem sinal medido nas redes (TikTok e Instagram não lidos nesta pesquisa).",
+     "sinal": "Executive Digest (19 nov) e Jornal Económico (ao minuto, 19 e 20 nov). Sem sinal medido nas redes (TikTok e Instagram não lidos nesta pesquisa). Atualização 25 nov: OE2027 aprovado em votação final global a 24 nov (ECO, Forbes Portugal); falta a promulgação e a publicação.",
      "comoAdaptar": "Fecha o ciclo do W47 (CRD-GA2 era para contratos até 2011): agora o público é quem assinou depois de 2011 e esperava a dedução. Muda o gancho de \"vem aí um alívio\" para \"olha para o contrato que tens\"."
     },
     "videos": [],
@@ -2495,6 +2528,10 @@
      {
       "nome": "Executive Digest, 19/11/2026: OE2027, o que foi aprovado e o que ficou pelo caminho no segundo dia de votações",
       "url": "https://executivedigest.sapo.pt/oe2027-o-que-foi-aprovado-e-o-que-ficou-pelo-caminho-o-balanco-do-segundo-dia-de-votacoes-no-parlamento/"
+     },
+     {
+      "nome": "ECO, 24/11/2026: Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+      "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/"
      }
     ]
    },
@@ -2593,7 +2630,7 @@
     "textoLegal": "[Firma], Lda., intermediário de crédito [vinculado / a título acessório / não vinculado], registado no Banco de Portugal sob o n.º [número de registo], que presta o(s) serviço(s) de [serviços autorizados], com vínculo a [denominação social completa dos bancos] [se aplicável: em exclusividade]. Tem de estar no ecrã durante todo o vídeo, em texto legível.",
     "tendenciaDetalhe": {
      "descricao": "Na especialidade (18 e 19 nov): aprovadas a suspensão da comissão de reembolso antecipado até 31 dez 2027 (PSD/CDS) e a sua eliminação permanente nos períodos de taxa variável, incluindo a fase variável da taxa mista (PS); aprovado o alargamento da garantia pública jovem à construção da primeira casa; rejeitada a dedução no IRS dos juros dos contratos depois de 2011. Taxa fixa e período fixo da mista ficam de fora da comissão.",
-     "sinal": "DN/Lusa (18 nov), Forbes Portugal, Executive Digest e Doutor Finanças (19 nov), Jornal Económico (23 nov). Votação final global marcada para 24 nov, sem resultado publicado à hora da pesquisa. Sem sinal medido nas redes (TikTok e Instagram não lidos nesta pesquisa).",
+     "sinal": "DN/Lusa (18 nov), Forbes Portugal, Executive Digest e Doutor Finanças (19 nov), Jornal Económico (23 nov). Votação final global marcada para 24 nov, sem resultado publicado à hora da pesquisa. Sem sinal medido nas redes (TikTok e Instagram não lidos nesta pesquisa). Atualização 25 nov: OE2027 aprovado em votação final global a 24 nov (ECO, Forbes Portugal); falta a promulgação e a publicação.",
      "comoAdaptar": "Continuação do CRD-BE1 do W47 (\"o que se vota\"): agora é o balanço do que passou e do que caiu, em três pontos, sem opinar sobre partidos."
     },
     "videos": [],
@@ -2617,6 +2654,10 @@
      {
       "nome": "Jornal Económico, 23/11/2026: as propostas para a habitação aprovadas no OE2027",
       "url": "https://jornaleconomico.sapo.pt/noticias/entre-coligacoes-e-derrotas-as-propostas-para-a-habitacao-aprovadas-no-oe2027/"
+     },
+     {
+      "nome": "ECO, 24/11/2026: Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+      "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/"
      }
     ]
    },
@@ -3036,6 +3077,153 @@
      {
       "nome": "Jornal PT50 (SAPO), 23/11/2026: intermediários de crédito querem período de adaptação nas novas regras da Diretiva do Crédito ao Consumo",
       "url": "https://sapo.pt/artigo/intermediarios-de-credito-querem-periodo-de-adaptacao-nas-novas-regras-da-diretiva-do-credito-ao-consumo-6b03eda1f92df73836905a91"
+     }
+    ]
+   },
+   {
+    "id": "GA5",
+    "categoria": "lead",
+    "tipo": "angariacao",
+    "tema": "imobiliario",
+    "subtema": null,
+    "regiao": "nacional",
+    "forcaSinal": "medio",
+    "nome": "Senhorio: o IRS das rendas volta aos 25%",
+    "tendencia": "Surfar ondas: o OE2027, aprovado a 24 nov, acaba com a taxa de IRS de 10% para rendas até 2.300 euros por mês",
+    "porqueFunciona": "É a mudança do Orçamento que mexe diretamente no bolso de quem arrenda e está nas notícias desta semana. Leva o senhorio a pôr em cima da mesa a hipótese de vender, com uma oferta de baixo compromisso.",
+    "adicionadoEm": "2026-11-25",
+    "copy": {
+     "titulo": "Senhorio em [Concelho]? Em 2027, o IRS das rendas até 2.300 euros volta aos 25%.",
+     "subtitulo": null,
+     "corpo": [
+      "O Orçamento para 2027 foi aprovado e acaba com a taxa reduzida de 10%. Compare o que a sua casa rende arrendada com o que vale se a vender. Clique em \"Saber mais\" e peça a sua avaliação gratuita, sem compromisso."
+     ],
+     "textoCompleto": "Senhorio em [Concelho]? Em 2027, o IRS das rendas até 2.300 euros volta aos 25%.\n\nO Orçamento para 2027 foi aprovado e acaba com a taxa reduzida de 10%. Compare o que a sua casa rende arrendada com o que vale se a vender. Clique em \"Saber mais\" e peça a sua avaliação gratuita, sem compromisso.",
+     "ctaAlternativo": null,
+     "titulosAlternativos": "Tem casa arrendada em [Concelho]? Saiba quanto vale antes de 2027.",
+     "palavras": 56,
+     "limitePalavras": 65
+    },
+    "gravacao": {
+     "cena": "plano frontal junto a uma porta de apartamento ou com uma chave na mão. Na edição, \"10% → 25%\" e \"2027\" no ecrã.",
+     "objetivo": null,
+     "formato": null,
+     "notas": [
+      "Confirmar a promulgação e a publicação do Orçamento e a data a partir da qual a mudança se aplica antes de publicar o vídeo.",
+      "\"Volta aos 25%\" é a taxa autónoma geral: há senhorios com outras taxas (contratos longos, englobamento). Não fazer contas de imposto nem dar conselho fiscal no vídeo.",
+      "Não referir partidos. Não gravar na mesma sessão que BR9 (mesmo tema)."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "Proposta do PS aprovada na especialidade a 20 nov, com o apoio do Chega, revoga a taxa reduzida de 10% criada pelo Governo para \"rendas moderadas\" até 2.300 euros. O Orçamento foi aprovado em votação final global a 24 nov. A taxa de 10% estava em vigor desde este ano.",
+     "sinal": "Público/Lusa (20 nov), idealista/news (20 e 25 nov: fundos preocupados com a reversão), ECO (24 nov, votação final). TikTok: @europa.a.vista, 59 gostos (há 4 dias).",
+     "comoAdaptar": "Uma só ideia para senhorios: com o imposto sobre as rendas a subir, é altura de comparar o que a casa rende arrendada com o que vale à venda. Oferta: avaliação gratuita."
+    },
+    "videos": [
+     {
+      "plataforma": "TikTok",
+      "autor": "@europa.a.vista",
+      "url": "https://www.tiktok.com/@europa.a.vista/video/7710602900300467508",
+      "legenda": "Parlamento aprova o fim da taxa de IRS de 10% para senhorios com rendas até 2.300 euros a partir de 2027.",
+      "metrica": "59 gostos",
+      "data": "há 4 dias (visto a 25 nov)"
+     }
+    ],
+    "fontes": [
+     {
+      "nome": "Público/Lusa, 20/11/2026: Taxa de IRS de 10% para rendas até 2300 euros acaba em 2027 à revelia do Governo",
+      "url": "https://www.publico.pt/2026/11/20/economia/noticia/taxa-irs-10-rendas-ate-2300-euros-acaba-2027-revelia-governo-2195652"
+     },
+     {
+      "nome": "idealista/news, 20/11/2026: Garantia e mais-valias alargadas no OE2027, mas cai IRS a 10% nas rendas",
+      "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/20/79069-garantia-e-mais-valias-alargadas-no-oe2027-mas-cai-irs-a-10-nas-rendas"
+     },
+     {
+      "nome": "ECO, 24/11/2026: Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+      "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/"
+     }
+    ]
+   },
+   {
+    "id": "BR9",
+    "categoria": "branding",
+    "tipo": "branding-extenso",
+    "tema": "imobiliario",
+    "subtema": null,
+    "regiao": "nacional",
+    "forcaSinal": "novo",
+    "nome": "Orçamento 2027 aprovado: 3 mudanças",
+    "tendencia": "Surfar ondas: votação final global do OE2027 (24 nov) confirma as alterações da especialidade para proprietários",
+    "porqueFunciona": "A aprovação final fecha a semana do Orçamento: é o momento de juntar o que mudou num só vídeo, claro e sem política, e pedir aos proprietários qual das mudanças os afeta.",
+    "adicionadoEm": "2026-11-25",
+    "copy": {
+     "titulo": "Orçamento 2027 aprovado: 3 mudanças para proprietários em [Região]",
+     "subtitulo": "E uma delas mexe com quem tem casa arrendada.",
+     "corpo": [
+      "Olá, o meu nome é [Nome], consultor imobiliário especialista em [Região]. O Orçamento para 2027 foi aprovado. Vamos por partes.",
+      "→ Primeiro: vender uma segunda casa ou uma casa vazia até 300 mil euros pode ficar isento de mais-valias, se o comprador for lá viver ou a arrendar a renda acessível.",
+      "→ Segundo: acaba a taxa de IRS de 10% para rendas até 2.300 euros.",
+      "→ Terceiro: o Governo tem de criar em 2027 uma garantia pública para rendas em falta.",
+      "Na minha opinião, [opinião do consultor: o que estas mudanças significam para os proprietários de [Região]].",
+      "Qual destas mudanças mexe mais consigo? Diga-me nos comentários."
+     ],
+     "textoCompleto": "Orçamento 2027 aprovado: 3 mudanças para proprietários em [Região]\n\nE uma delas mexe com quem tem casa arrendada.\n\nOlá, o meu nome é [Nome], consultor imobiliário especialista em [Região]. O Orçamento para 2027 foi aprovado. Vamos por partes.\n\n→ Primeiro: vender uma segunda casa ou uma casa vazia até 300 mil euros pode ficar isento de mais-valias, se o comprador for lá viver ou a arrendar a renda acessível.\n\n→ Segundo: acaba a taxa de IRS de 10% para rendas até 2.300 euros.\n\n→ Terceiro: o Governo tem de criar em 2027 uma garantia pública para rendas em falta.\n\nNa minha opinião, [opinião do consultor: o que estas mudanças significam para os proprietários de [Região]].\n\nQual destas mudanças mexe mais consigo? Diga-me nos comentários.",
+     "ctaAlternativo": "Tem uma segunda casa ou uma casa arrendada em [Região]? Envie-me mensagem e vemos o seu caso.",
+     "titulosAlternativos": "T2: Orçamento 2027: o que muda para quem tem casa em [Região]",
+     "palavras": 121,
+     "limitePalavras": 125
+    },
+    "gravacao": {
+     "cena": "plano frontal à secretária ou num local reconhecível em [Região]. Na edição, \"1\", \"2\" e \"3\" no ecrã a cada ponto.",
+     "objetivo": "Mostrar aos proprietários que o consultor acompanha as novidades do Orçamento e as explica de forma simples.",
+     "formato": null,
+     "notas": [
+      "Junta GA4, BR6 e GA5: gravar só um destes por sessão.",
+      "Mais-valias: regime de três anos; entre 300 e 500 mil euros paga sobre 25% do ganho. Garantia das rendas: ainda vai ser criada e é para rendas acessíveis. Não dizer que já está em vigor.",
+      "Confirmar a promulgação e a publicação antes de publicar. Não referir partidos."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "O Orçamento do Estado para 2027 foi aprovado a 24 nov com a abstenção do PS. Para proprietários ficam três mudanças aprovadas na especialidade: isenção de mais-valias na venda de segundas casas (com condições), fim do IRS a 10% nas rendas até 2.300 euros e obrigação de criar uma garantia pública para as rendas.",
+     "sinal": "ECO, Forbes Portugal, RTP e SOL (24 nov); idealista/news (20 nov). TikTok: vídeos sobre o Orçamento e a casa com 59 a 522 gostos esta semana.",
+     "comoAdaptar": "Info útil com o facto nacional da semana, em três pontos, para posicionar o consultor como quem explica as regras aos proprietários da zona."
+    },
+    "videos": [
+     {
+      "plataforma": "TikTok",
+      "autor": "@_vitor_neves",
+      "url": "https://www.tiktok.com/@_vitor_neves/video/7710259299867544865",
+      "legenda": "Vender uma segunda habitação sem pagar mais-valias? Pode estar a chegar uma grande mudança!",
+      "metrica": "522 gostos",
+      "data": "há 5 dias (visto a 25 nov)"
+     },
+     {
+      "plataforma": "TikTok",
+      "autor": "@europa.a.vista",
+      "url": "https://www.tiktok.com/@europa.a.vista/video/7710602900300467508",
+      "legenda": "Parlamento aprova o fim da taxa de IRS de 10% para senhorios com rendas até 2.300 euros a partir de 2027.",
+      "metrica": "59 gostos",
+      "data": "há 4 dias (visto a 25 nov)"
+     }
+    ],
+    "fontes": [
+     {
+      "nome": "ECO, 24/11/2026: Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+      "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/"
+     },
+     {
+      "nome": "Forbes Portugal, nov 2026: OE2027: votação final global confirma aprovação",
+      "url": "https://www.forbespt.com/oe2027-votacao-final-global-confirma-aprovacao-bruxelas-alerta-para-aumento-da-despesa-acima-do-recomendado/"
+     },
+     {
+      "nome": "idealista/news, 20/11/2026: Garantia e mais-valias alargadas no OE2027, mas cai IRS a 10% nas rendas",
+      "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/20/79069-garantia-e-mais-valias-alargadas-no-oe2027-mas-cai-irs-a-10-nas-rendas"
+     },
+     {
+      "nome": "Público/Lusa, 20/11/2026: Taxa de IRS de 10% para rendas até 2300 euros acaba em 2027 à revelia do Governo",
+      "url": "https://www.publico.pt/2026/11/20/economia/noticia/taxa-irs-10-rendas-ate-2300-euros-acaba-2027-revelia-governo-2195652"
      }
     ]
    }
