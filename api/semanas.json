@@ -4,7 +4,7 @@
   "inicio": "2026-11-23",
   "fim": "2026-11-29",
   "titulo": "23 a 29 nov 2026",
-  "atualizadoEm": "2026-11-25",
+  "atualizadoEm": "2026-11-27",
   "itens": [
    {
     "id": "GA1",
@@ -3111,13 +3111,14 @@
      "notas": [
       "Confirmar a promulgação e a publicação do Orçamento e a data a partir da qual a mudança se aplica antes de publicar o vídeo.",
       "\"Volta aos 25%\" é a taxa autónoma geral: há senhorios com outras taxas (contratos longos, englobamento). Não fazer contas de imposto nem dar conselho fiscal no vídeo.",
-      "Não referir partidos. Não gravar na mesma sessão que BR9 (mesmo tema)."
+      "Não referir partidos. Não gravar na mesma sessão que BR9 (mesmo tema).",
+      "Atualização 27 nov: a 25 nov (RTP1), o primeiro-ministro disse que o Governo não vai aplicar o fim do IRS a 10% nas rendas aprovado no OE2027 e não exclui o Tribunal Constitucional (ECO, idealista/news). Não gravar até a situação ficar clara; se gravar, dizer \"aprovado no Parlamento\" e não \"volta aos 25%\"."
      ]
     },
     "textoLegal": null,
     "tendenciaDetalhe": {
      "descricao": "Proposta do PS aprovada na especialidade a 20 nov, com o apoio do Chega, revoga a taxa reduzida de 10% criada pelo Governo para \"rendas moderadas\" até 2.300 euros. O Orçamento foi aprovado em votação final global a 24 nov. A taxa de 10% estava em vigor desde este ano.",
-     "sinal": "Público/Lusa (20 nov), idealista/news (20 e 25 nov: fundos preocupados com a reversão), ECO (24 nov, votação final). TikTok: @europa.a.vista, 59 gostos (há 4 dias).",
+     "sinal": "Público/Lusa (20 nov), idealista/news (20 e 25 nov: fundos preocupados com a reversão), ECO (24 nov, votação final). TikTok: @europa.a.vista, 59 gostos (há 4 dias). Atualização 27 nov: Governo recusa aplicar a mudança do IRS nas rendas (ECO, 25 nov).",
      "comoAdaptar": "Uma só ideia para senhorios: com o imposto sobre as rendas a subir, é altura de comparar o que a casa rende arrendada com o que vale à venda. Oferta: avaliação gratuita."
     },
     "videos": [
@@ -3142,6 +3143,10 @@
      {
       "nome": "ECO, 24/11/2026: Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
       "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/"
+     },
+     {
+      "nome": "ECO, 25/11/2026: Montenegro recusa aplicar \"IVA zero\" e alterar IRS das rendas",
+      "url": "https://eco.sapo.pt/2026/11/25/montenegro-recusa-aplicar-iva-zero-e-alterar-irs-das-rendas/"
      }
     ]
    },
@@ -3181,13 +3186,14 @@
      "notas": [
       "Junta GA4, BR6 e GA5: gravar só um destes por sessão.",
       "Mais-valias: regime de três anos; entre 300 e 500 mil euros paga sobre 25% do ganho. Garantia das rendas: ainda vai ser criada e é para rendas acessíveis. Não dizer que já está em vigor.",
-      "Confirmar a promulgação e a publicação antes de publicar. Não referir partidos."
+      "Confirmar a promulgação e a publicação antes de publicar. Não referir partidos.",
+      "Atualização 27 nov: a 25 nov (RTP1), o primeiro-ministro disse que o Governo não vai aplicar o fim do IRS a 10% nas rendas aprovado no OE2027 e não exclui o Tribunal Constitucional (ECO, idealista/news). Não gravar até a situação ficar clara; se gravar, dizer \"aprovado no Parlamento\" e não \"volta aos 25%\"."
      ]
     },
     "textoLegal": null,
     "tendenciaDetalhe": {
      "descricao": "O Orçamento do Estado para 2027 foi aprovado a 24 nov com a abstenção do PS. Para proprietários ficam três mudanças aprovadas na especialidade: isenção de mais-valias na venda de segundas casas (com condições), fim do IRS a 10% nas rendas até 2.300 euros e obrigação de criar uma garantia pública para as rendas.",
-     "sinal": "ECO, Forbes Portugal, RTP e SOL (24 nov); idealista/news (20 nov). TikTok: vídeos sobre o Orçamento e a casa com 59 a 522 gostos esta semana.",
+     "sinal": "ECO, Forbes Portugal, RTP e SOL (24 nov); idealista/news (20 nov). TikTok: vídeos sobre o Orçamento e a casa com 59 a 522 gostos esta semana. Atualização 27 nov: Governo recusa aplicar a mudança do IRS nas rendas (ECO, 25 nov).",
      "comoAdaptar": "Info útil com o facto nacional da semana, em três pontos, para posicionar o consultor como quem explica as regras aos proprietários da zona."
     },
     "videos": [
@@ -3224,6 +3230,173 @@
      {
       "nome": "Público/Lusa, 20/11/2026: Taxa de IRS de 10% para rendas até 2300 euros acaba em 2027 à revelia do Governo",
       "url": "https://www.publico.pt/2026/11/20/economia/noticia/taxa-irs-10-rendas-ate-2300-euros-acaba-2027-revelia-governo-2195652"
+     },
+     {
+      "nome": "ECO, 25/11/2026: Montenegro recusa aplicar \"IVA zero\" e alterar IRS das rendas",
+      "url": "https://eco.sapo.pt/2026/11/25/montenegro-recusa-aplicar-iva-zero-e-alterar-irs-das-rendas/"
+     }
+    ]
+   },
+   {
+    "id": "BR10",
+    "categoria": "branding",
+    "tipo": "branding-extenso",
+    "tema": "imobiliario",
+    "subtema": null,
+    "regiao": "nacional",
+    "forcaSinal": "novo",
+    "nome": "Bruxelas: casas 35% acima do valor",
+    "tendencia": "Info de mercado: a Comissão Europeia estima que as casas em Portugal estão sobrevalorizadas em cerca de 35%, o valor mais alto da UE",
+    "porqueFunciona": "Um número forte, oficial e fácil de dizer, que toda a gente vai comentar. Pede cunho e coragem: o consultor dá a sua leitura sobre se [Região] está cara ou não, e convida a discordar nos comentários.",
+    "adicionadoEm": "2026-11-27",
+    "copy": {
+     "titulo": "Casas 35% acima do valor, diz Bruxelas. E em [Região]?",
+     "subtitulo": null,
+     "corpo": [
+      "Olá, o meu nome é [Nome], consultor imobiliário especialista em [Região]. A Comissão Europeia estima que as casas em Portugal estão cerca de 35% acima do valor de equilíbrio, o mais alto da UE. Vamos por partes.",
+      "→ Primeiro: os preços subiram 17,6% em 2025, e o rendimento das famílias subiu 5,7%.",
+      "→ Segundo: a procura cresceu com a imigração e com a garantia pública para jovens.",
+      "→ Terceiro: as licenças de construção subiram cerca de 15%, mas ainda não chegam para travar os preços.",
+      "Na minha opinião, em [Região] [leitura do consultor: procura, oferta e preços na zona].",
+      "Acha que as casas em [Região] estão caras ou ainda vão valorizar? Diga-me nos comentários."
+     ],
+     "textoCompleto": "Casas 35% acima do valor, diz Bruxelas. E em [Região]?\n\nOlá, o meu nome é [Nome], consultor imobiliário especialista em [Região]. A Comissão Europeia estima que as casas em Portugal estão cerca de 35% acima do valor de equilíbrio, o mais alto da UE. Vamos por partes.\n\n→ Primeiro: os preços subiram 17,6% em 2025, e o rendimento das famílias subiu 5,7%.\n\n→ Segundo: a procura cresceu com a imigração e com a garantia pública para jovens.\n\n→ Terceiro: as licenças de construção subiram cerca de 15%, mas ainda não chegam para travar os preços.\n\nNa minha opinião, em [Região] [leitura do consultor: procura, oferta e preços na zona].\n\nAcha que as casas em [Região] estão caras ou ainda vão valorizar? Diga-me nos comentários.",
+     "ctaAlternativo": "Quer saber quanto vale hoje a sua casa em [Região]? Envie-me mensagem.",
+     "titulosAlternativos": "T2: Casas em Portugal: as mais sobrevalorizadas da Europa. E em [Região]?",
+     "palavras": 121,
+     "limitePalavras": 125
+    },
+    "gravacao": {
+     "cena": "plano frontal em local reconhecível de [Região]. Na edição, \"35%\" grande no ecrã no título e \"+17,6% casas / +5,7% rendimento\" lado a lado no primeiro ponto.",
+     "objetivo": "Posicionar o consultor como quem lê os números oficiais e os traduz para a zona, com opinião própria.",
+     "formato": null,
+     "notas": [
+      "\"Sobrevalorizada\" é uma estimativa da Comissão Europeia (preço face a rendimentos e valores de longo prazo), não uma previsão de descida: não dizer que os preços vão cair.",
+      "Os números são nacionais. O dado de [Região] só entra se for verificado (idealista, INE ou Confidencial Imobiliário).",
+      "Mesmo universo do W47 BR7 e do BR7 desta semana (preços +140%): gravar um destes por sessão."
+     ]
+    },
+    "textoLegal": null,
+    "tendenciaDetalhe": {
+     "descricao": "Na análise a Portugal do Semestre Europeu (divulgada a 24 nov), Bruxelas estima a sobrevalorização em cerca de 35%. Os preços subiram 17,6% em 2025 e 16,5% no 2.º trimestre de 2026, contra 5,7% de subida do rendimento das famílias em 2025. As licenças de construção subiram cerca de 15% em 2025, mas, segundo a CE, ainda não chegam para travar os preços.",
+     "sinal": "idealista/news (26 nov) e ECO (26 nov, crédito à habitação em máximo de sempre). Sem sinal medido nas redes: as pesquisas no TikTok desta atualização não mostraram vídeos recentes sobre o tema.",
+     "comoAdaptar": "Info de mercado no estilo da casa: facto nacional + \"E em [Região]?\", três pontos (o número, o porquê, a oferta) e a opinião do consultor. Atenção: o W47 BR7 já usou a pressão de Bruxelas sobre a habitação; este traz o número novo (35%) e a leitura dos preços face aos salários."
+    },
+    "videos": [],
+    "fontes": [
+     {
+      "nome": "idealista/news, 26/11/2026: Casas caras em Portugal? Preços sobrevalorizados em 35%, estima Bruxelas",
+      "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/26/79216-casas-caras-em-portugal-precos-sobrevalorizados-em-35-estima-bruxelas"
+     },
+     {
+      "nome": "ECO, 26/11/2026: Crédito à habitação cresce 11,2% em outubro e supera 121 mil milhões de euros",
+      "url": "https://eco.sapo.pt/2026/11/26/credito-a-habitacao-cresce-112-em-outubro-e-supera-121-mil-milhoes-de-euros"
+     }
+    ]
+   },
+   {
+    "id": "CRD-GA4",
+    "categoria": "lead",
+    "tipo": "angariacao",
+    "tema": "credito",
+    "subtema": "habitacao",
+    "regiao": "nacional",
+    "forcaSinal": "novo",
+    "nome": "Amortizar sem comissão na taxa variável",
+    "tendencia": "Surfar ondas: o OE2027 aprovou o fim permanente da comissão de amortização antecipada nos créditos à habitação com taxa variável",
+    "porqueFunciona": "É uma regra que muda de vez e chega na altura do subsídio de Natal, quando muitos pensam em amortizar. Uma só ideia, positiva e com oferta de baixo compromisso, sem prometer poupança.",
+    "adicionadoEm": "2026-11-27",
+    "copy": {
+     "titulo": "Tens crédito habitação com taxa variável? Amortizar vai deixar de ter comissão.",
+     "subtitulo": null,
+     "corpo": [
+      "O Orçamento para 2027 acaba com esta comissão nos contratos com taxa variável. Antes de usares as tuas poupanças, eu analiso o teu contrato contigo e vemos se amortizar faz sentido no teu caso. [Frase de custo aprovada pela empresa.] Clica em \"Saber mais\" e pede a tua análise, sem compromisso."
+     ],
+     "textoCompleto": "Tens crédito habitação com taxa variável? Amortizar vai deixar de ter comissão.\n\nO Orçamento para 2027 acaba com esta comissão nos contratos com taxa variável. Antes de usares as tuas poupanças, eu analiso o teu contrato contigo e vemos se amortizar faz sentido no teu caso. [Frase de custo aprovada pela empresa.] Clica em \"Saber mais\" e pede a tua análise, sem compromisso.",
+     "ctaAlternativo": null,
+     "titulosAlternativos": "Subsídio de Natal no bolso e crédito com taxa variável? Lê isto antes de amortizar.",
+     "palavras": 63,
+     "limitePalavras": 65
+    },
+    "gravacao": {
+     "cena": "plano frontal, sentado, com o contrato de crédito em cima da mesa; texto \"Taxa variável: amortizar sem comissão\" no ecrã na edição.",
+     "objetivo": null,
+     "formato": null,
+     "notas": [
+      "Confirmar a promulgação, a publicação do OE2027 e a data a partir da qual a regra se aplica antes de publicar. Se ainda não estiver em vigor, dizer \"vai deixar de ter\".",
+      "Só taxa variável (e mistos no período variável). Não incluir taxa fixa.",
+      "Não dizer valores da comissão, taxas, prestações nem poupança em euros. Não prometer que amortizar compensa: depende de cada contrato.",
+      "**Texto legal obrigatório:** ver o bloco abaixo. Todo o vídeo de crédito leva a identificação do intermediário."
+     ]
+    },
+    "textoLegal": "[Firma], Lda., intermediário de crédito [vinculado / a título acessório / não vinculado], registado no Banco de Portugal sob o n.º [número de registo], que presta o(s) serviço(s) de [serviços autorizados], com vínculo a [denominação social completa dos bancos] [se aplicável: em exclusividade]. Tem de estar no ecrã durante todo o vídeo, em texto legível.",
+    "tendenciaDetalhe": {
+     "descricao": "Proposta do PS aprovada na especialidade (18 nov) elimina a comissão de reembolso antecipado nos créditos à habitação com taxa variável, incluindo os mistos no período variável. Substitui a suspensão até ao fim de 2027 aprovada antes (PSD/CDS). Taxa fixa fica de fora. O OE2027 foi aprovado em votação final a 24 nov; falta a promulgação e a data de aplicação.",
+     "sinal": "ECO (18 e 20 nov: bancos criticam mas afastam impacto), idealista/news (25 nov, guia do OE2027). Sem sinal medido nas redes nesta atualização.",
+     "comoAdaptar": "Lead para quem tem taxa variável e dinheiro de lado (subsídio de Natal, poupanças): oferecer uma análise do contrato para perceber se amortizar faz sentido. Atenção: amortizar já foi tema em W44 a W47 (suspensão até fim de 2025); o novo é o fim permanente aprovado no Orçamento."
+    },
+    "videos": [],
+    "fontes": [
+     {
+      "nome": "ECO, 18/11/2026: Comissão de amortização antecipada do crédito à habitação chega ao fim",
+      "url": "https://eco.sapo.pt/2026/11/18/credito-a-habitacao-sem-comissao-de-amortizacao-antecipada-ate-ao-fim-de-2027/"
+     },
+     {
+      "nome": "ECO/Lusa, 20/11/2026: Bancos criticam fim da comissão nas amortizações antecipadas mas afastam impacto significativo",
+      "url": "https://eco.sapo.pt/2026/11/20/bancos-criticam-fim-da-comissao-nas-amortizacoes-antecipadas-mas-afastam-impacto-significativo/"
+     },
+     {
+      "nome": "idealista/news, 25/11/2026: OE2027 aprovado na AR, mas Montenegro recusa medidas - e agora?",
+      "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/11/25/79183-oe2027-com-luz-verde-no-parlamento-o-que-muda-na-habitacao-em-portugal"
+     }
+    ]
+   },
+   {
+    "id": "CRG-GA4",
+    "categoria": "lead",
+    "tipo": "angariacao",
+    "tema": "credito",
+    "subtema": "geral",
+    "regiao": "nacional",
+    "forcaSinal": "novo",
+    "nome": "Vários créditos? Junta tudo numa análise",
+    "tendencia": "Info de mercado: o crédito ao consumo cresce ao ritmo mais forte desde fevereiro de 2020 (Banco de Portugal, outubro)",
+    "porqueFunciona": "O dado oficial mostra que o crédito ao consumo está a crescer como não se via desde 2020, e dezembro junta compras e prestações. Uma análise de todos os créditos é uma oferta concreta e de baixo compromisso.",
+    "adicionadoEm": "2026-11-27",
+    "copy": {
+     "titulo": "Tens vários créditos ao mesmo tempo? Junta-os numa só análise.",
+     "subtitulo": null,
+     "corpo": [
+      "Segundo o Banco de Portugal, o crédito ao consumo está a crescer ao ritmo mais forte desde 2020. Eu analiso todos os teus créditos contigo. Juntar créditos pode baixar a prestação, mas também pode aumentar o custo total, e vemos isso juntos. [Frase de custo aprovada pela empresa.] Clica em \"Saber mais\", sem compromisso."
+     ],
+     "textoCompleto": "Tens vários créditos ao mesmo tempo? Junta-os numa só análise.\n\nSegundo o Banco de Portugal, o crédito ao consumo está a crescer ao ritmo mais forte desde 2020. Eu analiso todos os teus créditos contigo. Juntar créditos pode baixar a prestação, mas também pode aumentar o custo total, e vemos isso juntos. [Frase de custo aprovada pela empresa.] Clica em \"Saber mais\", sem compromisso.",
+     "ctaAlternativo": null,
+     "titulosAlternativos": "Cartão, carro e crédito pessoal ao mesmo tempo? Começa por aqui.",
+     "palavras": 64,
+     "limitePalavras": 65
+    },
+    "gravacao": {
+     "cena": "plano frontal, sentado, com vários papéis de créditos em cima da mesa que junta numa só pilha; texto \"Todos os créditos, uma análise\" no ecrã na edição.",
+     "objetivo": null,
+     "formato": null,
+     "notas": [
+      "A frase \"pode baixar a prestação, mas também pode aumentar o custo total\" é obrigatória na consolidação: não cortar.",
+      "Não dizer taxas, TAEG, prestações nem poupança em euros. Não prometer aprovação.",
+      "Intermediário vinculado: falar em \"instituições com quem tenho contrato\", nunca \"recomendo\".",
+      "**Texto legal obrigatório:** ver o bloco abaixo. Todo o vídeo de crédito leva a identificação do intermediário."
+     ]
+    },
+    "textoLegal": "[Firma], Lda., intermediário de crédito [vinculado / a título acessório / não vinculado], registado no Banco de Portugal sob o n.º [número de registo], que presta o(s) serviço(s) de [serviços autorizados], com vínculo a [denominação social completa dos bancos] [se aplicável: em exclusividade]. Tem de estar no ecrã durante todo o vídeo, em texto legível.",
+    "tendenciaDetalhe": {
+     "descricao": "Segundo dados do Banco de Portugal divulgados a 26 nov, o crédito ao consumo acelerou de 9,5% para 9,8% em outubro, o crescimento mais forte desde fevereiro de 2020. O crédito à habitação atingiu 121,3 mil milhões de euros, o valor mais alto de sempre.",
+     "sinal": "ECO, 26 nov (dados do Banco de Portugal). Sem sinal medido nas redes nesta atualização.",
+     "comoAdaptar": "Lead de consolidação: com mais famílias a juntar créditos ao consumo no fim do ano (Black Friday, Natal), o intermediário oferece uma análise de todos os créditos de uma vez. Diferente de CRG-GA2 (\"sem juros\" na Black Friday) e CRG-GA3 (limite legal dos cartões)."
+    },
+    "videos": [],
+    "fontes": [
+     {
+      "nome": "ECO, 26/11/2026: Crédito à habitação cresce 11,2% em outubro e supera 121 mil milhões de euros",
+      "url": "https://eco.sapo.pt/2026/11/26/credito-a-habitacao-cresce-112-em-outubro-e-supera-121-mil-milhoes-de-euros"
      }
     ]
    }
